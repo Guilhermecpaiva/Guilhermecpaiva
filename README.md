@@ -45,7 +45,5 @@
 
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermecpaiva\&rank_icon=percentile)
-
-
-  ![Snake animation](https://github.com/Guilhermecpaiva/Guilhermecpaiva/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermecpaiva&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
