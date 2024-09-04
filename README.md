@@ -44,5 +44,6 @@
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermecpaiva\&rank_icon=percentile)
 
-
+<div>
 ![Snake animation](https://github.com/Guilhermecpaiva/Guilhermecpaiva/blob/output/github-contribution-grid-snake.svg)
+</div>
