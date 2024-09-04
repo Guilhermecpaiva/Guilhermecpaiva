@@ -32,7 +32,7 @@
 ## Vamos Criar Algo Incrível! 💫
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-<div>
+
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-eaiguilhermep-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eaiguilhermep/)](https://www.instagram.com/eaiguilhermep/)
@@ -46,4 +46,4 @@
 
 
   ![Snake animation](https://github.com/Guilhermecpaiva/Guilhermecpaiva/blob/output/github-contribution-grid-snake.svg)
-</div>
+
