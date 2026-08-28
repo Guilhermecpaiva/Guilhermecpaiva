@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
 ## Habilidades Tecnológicas
 
